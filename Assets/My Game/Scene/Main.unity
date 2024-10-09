@@ -11050,7 +11050,7 @@ MonoBehaviour:
   arrowSpawn: {fileID: 734346045}
   arrowVelocity: 2000
   distanceArrow: 800
-  spreadIntensity: 0.3
+  spreadIntensity: 0
   arrowPrefabsTime: 3
   muzlerFlash: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
